@@ -1,0 +1,7 @@
+ofxWindowRegion
+
+a portion of the screen
+operations to plot functions within specific windows
+helps viewing of audio analysis tools
+
+needs some work on PlotFunction class
